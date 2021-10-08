@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FindSourseDan": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\MLserver\\data\""
+    }
+  }
+}
